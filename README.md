@@ -1,4 +1,4 @@
-#GridStorm - Python binding for gridworld environments
+GridStorm - Python binding for gridworld environments
 ===================================
 
 * **gridfull** - Fully observable gridworld environments
